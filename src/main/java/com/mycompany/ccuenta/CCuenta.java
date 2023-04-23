@@ -9,6 +9,7 @@ import java.util.List;
 /**
  *
  * @author ED05
+ * @version 1.0
  */
 public class CCuenta {
 
