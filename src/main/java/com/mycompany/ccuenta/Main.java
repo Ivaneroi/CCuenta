@@ -8,7 +8,7 @@ package com.mycompany.ccuenta;
 /**
  *
  * @author ED05
- Comentario para verificar la sincromización de git con netbeans.
+ Comentario para verificar la sincronización de git con netbeans.
  */
 public class Main {
 
